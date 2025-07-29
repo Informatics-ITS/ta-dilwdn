@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Dilla Wahdana  
+**NRP**: 5025211060 
+**Judul TA**: PENGEMBANGAN APLIKASI PENILAIAN OTOMATIS SOAL CERITA MATEMATIKA SESUAI STANDAR KOMPETENSI PEMBELAJARAN  
+**Dosen Pembimbing**: Prof. Dr. Ir. Umi Laili Yuhana, S.Kom., M.Sc.
+**Dosen Ko-pembimbing**: Moch. Nafkhan Alzamzami, S.T., M.T.
 
 ---
 
