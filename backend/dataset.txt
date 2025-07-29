@@ -1,0 +1,500 @@
+Di meja ada 4 buah apel. Lalu ibu meletakkan 2 buah apel lain. Berapa banyak apel di meja sekarang?
+Adik mempunyai 11 ekor ikan. Lalu ayah membelikan 4 ekor ikan. Berapa banyak ikan adik sekarang?
+Ayah mempunyai 4 ekor kambing. Membeli lagi 3 ekor kambing. Berapa kambing ayah sekarang?
+Budi mempunyai 6 buah kelereng. Dibelikan ibunya 3 buah kelereng. Berapa kelereng budi sekarang?
+Tono mempunyai 8 ekor ikan. Membeli lagi 4 ekor ikan. Berapa jumlah ikan tono sekarang?
+Paman mempunyai 12 ekor sapi. Membeli lagi 6 ekor sapi. Berapa jumlah sapi paman?
+Dedi mempunyai 14 buah pensil. Dibelikan ayahnya 5 buah pensil. Berapa jumlah pensil dedi sekarang?
+Kakak mempunyai 5 buah buku. Dibelikan ayah 3 buah buku. Berapa jumlah buku kakak sekarang?
+Dona mempunyai 13 ekor ayam. Lalu menetas 6 ekor ayam. Berapa ayam dona sekarang?
+Ratih memiliki pita sepanjang 8 jengkal. Ia membeli lagi pita sepanjang 7 jengkal. Berapa panjang pita ratih seluruhnya?
+Lebar kelas joko 12 ubin. Lebar terasnya 7 ubin. Berapa ubin lebar keseluruhan?
+Umur adi sekarang 2 tahun. Berapa umur adi 15 tahun lagi?
+Di rumah rizki ada 23 anak ayam. Ayahnya membeli 6 anak ayam lagi. Berapa jumlah anak ayam sekarang?
+Bu ika membeli 23 buah mangga. Lalu membeli lagi 12 buah apel. Berapa banyak buah yang dibeli bu ika?
+Anita memiliki 32 butir permen. Nana memiliki 16 butir permen. Berapa butir jumlah permen mereka berdua?
+Di kelas ada 23 siswa laki-laki. Dan 24 siswa perempuan. Berapa jumlah seluruh siswa?
+Umur tuti sekarang 6 tahun. Berapa umur tuti 25 tahun lagi?
+Bu ida memiliki 44 buah jeruk. Lalu ia membeli lagi 14 buah. Berapa buah jeruk bu ida sekarang?
+Intan mempunyai 5 buah buku. Dibelikan ibunya 5 buah buku lagi. Diberi kakaknya 4 buah buku lagi. Berapa jumlah buku intan sekarang?
+Di rumah ika ada 12 buah apel. Kakaknya membeli 8 buah apel. Ibunya membeli 6 buah apel. Berapa buah jumlah apel di rumah ika?
+Dedi mempunyai 13 butir permen. Deni mempunyai 7 butir permen. Nana mempunyai 9 butir permen. Berapa butir jumlah permen mereka?
+Pak ihsan mempunyai 12 ekor ayam. Menetas lagi 8 ekor ayam. Membeli di pasar 6 ekor ayam. Berapa ekor jumlah ayam pak ihsan?
+Berat buku matematika adalah 16 kelereng. Berat buku ipa adalah 12 kelereng. Jika kedua buku itu ditumpuk. Berapa berat keseluruhan?
+Berat jeruk sama dengan 10 kelereng. Berat apel sama dengan 12 kelereng. Berat mangga sama dengan 25 kelereng. Berapa berat keseluruhan?
+Adik mempunyai 5 kelereng. Kakak memberi adik 3 kelereng. Banyak kelereng adik sekarang ada?
+Dian mempunyai 2 balon. Ia diberi temannya 3 balon. Banyak balon dian sekarang ada?
+Adik mendapat 4 kado. Teman lainnya memberi 3 kado. Banyak kado adik sekarang ada?
+Tamu yang datang 6 orang. Datang lagi tamu 3 orang. Banyak tamu sekarang ada?
+Ucup membawa 7 permen. Ia mendapat 2 permen lagi. Banyak permen ucup sekarang ada?
+Mula mula ada 2 roti. Kemudian ditambahkan 1 roti. Banyak roti menjadi?
+Cika mempunyai 1 es krim. Ibu memberi cika 1 es krim. Berapa banyak es krim cika sekarang?
+Adik mempunyai 5 mobil mobilan. Ayah membelikan lagi 2 mobil mobilan. Berapa mobil mobilan adik sekarang?
+Adik mempunyai 4 pensil. Adik membeli lagi 5 pensil. Berapa pensil adik sekarang?
+Toto membeli 6 permen. Toto diberi ibu 5 permen. Berapa permen toto sekarang?
+Ibu mempunyai seikat bunga mawar. Bunga tersebut dibagikan semua kepada susan dan dewi. Susan diberi 8 bunga. Dewi diberi 7 bunga melati. Berapa banyak bunga mawar mula mula?
+Joko makan 4 apel. Joko makan 5 apel lagi. Berapa apel yang sudah dimakan joko?
+Wati mempunyai 5 boneka. Wati diberi nenek 2 boneka. Wati diberi ibu 8 boneka. Berapa boneka wati sekarang?
+Ibu membeli 7 kilo telur. Bapak membeli 9 kilo telur. Berapa jumlah telur ibu dan bapak?
+Anjas mempunyai 6 buku. Anjas diberi ibu 3 buku. Berapa buku anjas sekarang?
+Budi mulai bermain bola pukul 4. Budi bermain bola selama 3 jam. Pukul berapa budi selesai bermain bola?
+Lila membaca mulai pukul 7. Lila membaca selama 2 jam. Pukul berapa lila selesai membaca?
+Pak tani pergi ke sawah pukul 6. Pak tani bekerja selama 4 jam. Pukul berapa pak tani pulang dari sawah?
+Ibu pergi ke pasar pukul 9. Ibu berbelanja di pasar selama 2 jam. Pukul berapa ibu pulang dari pasar?
+Wati mulai menyiram tanaman pukul 4. Wati menyiram tanaman selama 1 jam. Pukul berapa wati selesai menyiram tanaman?
+Ari selesai bermain bola pukul 5. Ari bermain bola selama 3 jam. Ari mulai bermain bola pukul?
+Ibu berbelanja ke pasar pukul 8 pagi. Ibu berbelanja selama 2 jam. Jam berapa ibu pulang dari pasar?
+Dudi mempunyai 6 ekor ikan. Ayah memberi 4 ekor ikan. Kakak juga memberi 5 ekor ikan. Berapa ikan yang dimiliki dudi?
+Sita mempunyai 18 butir apel hijau. Ia juga mempunyai 16 butir apel merah. Berapa butir apel sita?
+Ipan memiliki 26 ekor ayam. Ayam ini bertelur. Kemarin telur telur itu menetas. Ipan mendapat 37 ekor anak ayam. Hitunglah semua ayam ipan sekarang?
+Paman priyo berternak kambing. Ia memiliki 34 ekor kambing jantan. Ia juga memiliki 15 ekor kambing betina. Jumlah kambing paman priyo ada ... Ekor
+Pak joko memiliki 3 pohon durian. Pohon pertama berbuah 21 durian. Pohon kedua berbuah 33 durian. Pohon pertama berbuah 45 durian. Jumlah durian pak joko ada … buah
+Ari mempunyai 23 butir anggur. Ia diberi 31 anggur oleh ibu. Anggur ari sekarang ada … buah
+Adi dan tono bertamasya ke kebun binatang. Adi memberi 25 butir kacang pada kera. Tono juga memberi 13 butir kacang pada kera yang sama. Jumlah kacang yang diberikan adi dan tono ada … butir
+Siswa sd suka maju berkunjung ke panti asuhan. Siswa membawa bingkisan berisi 50 buku dan 20 pensil. Jumlah buku dan pensil yang diberikan ada … buah
+Murid laki laki kelas 1 ada 35 anak. Murid perempuan kelas 1 ada 34 anak. Berapakah jumlah semua murid kelas 1?
+Santi membeli 48 buah jeruk. Ibu memberi santi 21 buah jeruk. Berapa buah jeruk santi sekarang?
+Ari punya bola bekel empat butir. Ia membeli lagi satu butir. Berapa bola bekel ari sekarang?
+Kelereng agus ada lima butir. Kelereng tono ada empat butir. Berapa butir kelereng agus dan tono?
+Koin iwan enam butir. Diberi ibu tiga butir. Berapa koin iwan sekarang?
+Rina mempunyai bola bekel delapan butir. Ibu memberi lima butir. Berapa bola bekel rina?
+Bibi memetik tujuh buah tomat. Memetik lagi enam buah. Berapa buah tomat yang dipetik bibi?
+Layang layang warna hijau ada 14 buah. Layang layang warna merah ada 5 buah. Berapa banyak layang layang seluruhnya?
+Vita memiliki 5 tas warna kuning. Ibu memberi 2 tas warna ungu. Berapa jumlah tas vita seluruhnya?
+Ari membeli 20 kelereng. Diberi bibi 10 kelereng. Berapa banyak kelereng ari?
+Kakak membeli 20 duku. Membeli lagi 15 duku. Berapa jumlah duku kakak?
+Ari mempunyai kelereng 20 butir. Ia diberi oleh kakaknya 20 butir. Jumlah kelereng ari sekarang adalah ...
+Ida mempunyai koin 41 biji. Ia membeli lagi 10 biji. Koin milik ida sekarang jumlahnya ...
+Ayam paman 32 ekor. Membeli lagi 11 ekor. Banyak ayam paman semua adalah ...
+Tania mempunyai 11 buah mangga. Ibu memberinya 7 buah. Banyak mangga tania sekarang adalah ...
+Boneka andin ada 18 buah. Paman membawakan 6 buah boneka. Banyak boneka andin sekarang adalah ...
+Doni mempunyai 20 kelereng. Diberi roni 15 kelereng. Banyak kelereng doni adalah ...
+Koin ari 11 keping. Koin resa 12 keping. Koin sari 10 keping. Berapa keping jumlah koin itu?
+Kakak mempunyai 4 buku. Membeli lagi 2 buku. Berapa banyak buku kakak sekarang?
+Ada tiga anak sedang belajar. Dua anak bergabung belajar. Berapa jumlah anak yang belajar?
+Ana membeli 2 kotak pensil. Satu kotak berisi 4 pensil. Dan satu kotak kosong. Berapa jumlah pensil ana. Dalam kedua kotak itu?
+Adi mempunyai 3 baju. Adi membeli lagi 2 baju. Berapa baju adi sekarang?
+Bu guru memegang 4 kapur. Mengambil lagi 3 kapur. Berapa kapur yang dipegang bu guru?
+Ida membeli 5 buku. Dibelikan lagi oleh ibu 4 buku. Berapa buku ida sekarang?
+Ika mempunyai 6 buku. Ibu memberi 3 buku. Buku ika sekarang berjumlah ... Buah?
+Ina membeli 11 kelereng. Sebelumnya ina sudah mempunyai 6 kelereng. Jumlah kelereng ina ... Butir?
+Susi mempunyai 4 pensil. Diberi oleh ibu 3 pensil. Dan diberi lagi oleh ayah 2 pensil. Pensil susi semuanya ... Batang?
+Ira mempunyai 3 buku. Diberi ayah 4 buku. Buku ira sekarang berjumlah ...
+Budi belajar selama 2 jam. Jika budi mulai belajar pukul 7. Pukul berapa budi selesai belajar ...
+Adik mempunyai 15 kelereng. Kakak memberi lagi 2 kelereng. Berapa kelereng adik sekarang?
+Ibu memetik 14 buah semangka. Kemudian memetik lagi 3 buah semangka. Berapa buah semangka yang dipetik ibu?
+Ada 30 karung gula dalam gudang. Hari ini dikirim lagi 10 karung gula. Berapa banyak karung gula dalam gudang?
+Adi mempunyai 25 permen. Dino memberi lagi 27 permen. Berapa permen adi sekarang?
+Ayah membeli 15 apel kemudian. Membeli lagi 13 apel. Berapa buah apel yang dibeli ayah?
+Rini mempunyai 41 kelereng. Membeli lagi 9 kelereng. Berapa banyak kelereng rini?
+Paman memetik 20 jambu. Kemudian memetik lagi 15 jambu. Diberi oleh bibi 12 jambu. Berapa banyak jambu paman?
+Rika membutuhkan 38 buku. Hari ini membeli 14 buku dan. Diberi ibu 13 buku. Berapa buku yang harus. Disediakan lagi?
+Ibu mempunyai 25 piring putih dan 24 piring merah. Jumlah piring ibu ada ...
+Ada 12 gelas dan 24 piring. Berapa jumlah gelas dan piring?
+Ani menangkap ikan di kolam. Hari pertama menangkap 12 ikan. Hari kedua 24 ikan dan. Hari ketiga 23 ikan. Berapa jumlah ikan yang ditangkap?
+Dalam akuarium bulat ada 4 ikan. Dalam akuarium kotak ada 7 ikan. Berapa jumlah ikan seluruhnya?
+Pak Hikam memelihara 25 ekor ayam jantan dan 280 ekor ayam betina. Berapa ekor jumlah ayam Pak Hikam?
+Hari ini ayam betina Pak Hikam bertelur 215 butir dan kemarin bertelur 179 butir. Berapa butir jumlah telur hari ini dan kemarin?
+Ayam betina Pak Hikam 280 ekor. Besok Pak Hikam akan menambah ayam betina 120 ekor. Berapa jumlah ayam betina milik Pak Hikam setelah ditambah?
+Udin mempunyai 127 butir kelereng. Ibunya membelikan lagi 55 butir kelereng. Berapa banyak kelereng Udin semuanya?
+Ayu disuruh ibu membeli kancing baju. Ayu membeli 135 buah kancing baju merah dan 142 buah kancing baju putih. Berapa banyak kancing baju seluruhnya?
+Di meja ada 4 buah apel. Lalu kakak memakannya 1 buah. Berapa sisa apel di meja sekarang?
+Adik mempunyai ikan 11 ekor. Lalu mati 2 ekor. Berapa ikan adik yang masih hidup?
+Ibu mempunyai 5 buah apel. Dimakan adik 2 buah. Berapa sisa buah apel ibu?
+Bibi mempunyai 6 kue. Dimakan paman 2 kue. Berapa sisa kue bibi?
+Tono mempunyai 9 buah permen. Dikasihkan adiknya 4 buah. Berapa sisa permen tono?
+Ali mempunyai 8 ekor ayam. Dijual 6 ekor ayam. Berapa sisa ayam ali?
+Tina mempunyai 18 ekor ikan. Mati 6 ekor ikan. Berapa ikan tina yang masih hidup?
+Budi mempunyai 20 butir kelereng. Hilang 10 butir kelereng. Berapa sisa kelereng budi?
+Deni mempunyai 8 buah pensil. Diberikan kepada adiknya 3 buah pensil. Berapa pensil deni sekarang?
+Ibu membeli 19 buah pisang. Dimakan 9 buah pisang. Berapa sisa buah pisang ibu?
+Ana mengerjakan pr mulai pukul 7. Ia selesai pukul 9. Berapa lama ana mengerjakan pr?
+Anton memiliki benang sepanjang 17 depa. Lalu ia potong 4 depa. Berapa panjang benang anton sekarang?
+Ujang masuk sekolah pukul 7. Pulang sekolah pukul 10. Berapa lama ujang di sekolah?
+Usia denita 7 tahun. Usia ibunya 38 tahun. Berapa selisih usia denita dengan ibunya?
+Indah memiliki 24 buah apel. Diberikan temannya 14 buah. Berapa sisa apel indah sekarang?
+Pak edi memiliki 46 ekor kambing. Lalu dijual 12 ekor. Berapa ekor kambing pak edi sekarang?
+Tini memiliki 49 butir permen. Dibagikan kepada temannya 27 butir. Berapa butir permen tini sekarang?
+Toko subur memiliki 78 butir telur. Lalu dijual 34 butir. Berapa butir telur yang belum terjual?
+Pak budi memiliki 86 ekor kelinci. Dijual 42 ekor kelinci. Berapa sisa kelinci pak budi?
+Gerobak pertama membawa 37 batu bata. Gerobak kedua membawa 24 batu bata. Berapa selisih beratnya?
+Saku kiri romi terdapat 12 kelereng. Dan saku kanannya terdapat 17 kelereng. Berapa selisih beratnya.
+Ani mengambil 3 roti. Dimakan ani 2 roti. Banyak roti ani sekarang ada?
+Ibu menyediakan 20 piring. Temanmu ada yang memecahkan 2 piring. Banyak piring ibu sekarang ada?
+Mula mula di meja ada 7 minuman. Diambil tamu sebanyak 3 minuman. Banyak minuman sekarang ada?
+Terdapat 10 topi ulang tahun. Topi tersebut dibagikan pada 7 anak. Banyak topi sekarang ada?
+Kakak memetik 15 apel. Dua buah apel kakak busuk. Banyak apel kakak yang tidak busuk ada?
+Adik mempunyai 13 permen. Dibagikan temannya 5 permen. Banyak permen adik sekarang ada?
+Mula mula balonmu ada 5. Kamu berikan temanmu 2. Balonmu tinggal berapa?
+Di meja makan tersedia 7 tempe. Asep mengambil 2 tempe. Atik mengambil 3 tempe. Berapa tempe yang tersisa?
+Ibu menggoreng 7 telur. Dimakan ari 2 telur. Berapa telur yang belum dimakan?
+Ayah memelihara 8 ayam. Dipotong 5 ekor. Berapa ayam yang tidak dipotong?
+Di halaman rumah ada 9 mawar. 4 mawar layu. Berapa mawar yang tidak layu?
+Ari punya 8 pensil. 2 pensil dipinjam wulan. 5 pensil diberikan pada wati. Berapa sisa pensil yang dimiliki ari?
+Paman membawa 9 coklat. 4 coklat diberikan pada wati. 5 coklat diberikan pada ari. Berapa coklat paman sekarang?
+Riswe punya 10 permen. 2 permen dimakan riswe. 5 permen dimakan tina. Berapa sisa permen riswe sekarang?
+Di piring ada 8 potong kue. Diberikan pada pengemis 1 potong. Berapa sisa kue yang ada di piring?
+Didi mulai belajar pukul 7. Didi selesai belajar pukul 9. Berapa lama didi belajar?
+Ari tidur siang pukul 2. Ari bangun pukul 4. Berapa lama ari tidur siang?
+Wati menyiram tanaman pukul 4. Wati selesai menyiram tanaman pukul 5. Berapa lama wati menyiram tanaman?
+Ibu mulai memasak pukul 7. Ibu selesai memasak pukul 10. Berapa lama ibu memasak?
+Ayah berangkat ke sawah pukul 8. Ayah pulang dari sawah pukul 11. Berapa lama ayah berada di sawah?
+Adik bermain layang layang pukul 9. Adik selesai bermain layang layang pukul 11. Berapa lama adik bermain layang layang?
+Bima mulai belajar pukul 7 malam. Bima selesai belajar pukul 9 malam. Berapa lama bima belajar?
+Dani les matematika mulai pukul 6 sore. Dani selesai les matematika pukul 7 sore. Berapa lama dani les matematika?
+Pino membeli 93 ekor ikan. 47 ekor ikan mati. Berapa ikan yang masih hidup?
+Wati menanam 45 anggrek. 15 anggrek sedang berbunga. Anggrek yang tidak berbunga ada … buah
+Bu rini menjual 67 tangkai bunga mawar. 59 tangkai sudah terjual. Mawar yang belum terjual ada … tangkai
+Bu rani menyumbang 70 kardus mi instan. 40 kardus mi instan untuk desa jatisawit. Sisanya untuk desa banguntapan. Mi instan untuk desa banguntapan ada … kardus
+Ani membuat 75 roti bakpia. Diberikan kepada tetangga ani 53 buah. Sisa roti bakpia ani ada … buah
+Arif mendapat pekerjaan rumah 20 soal matematika. Pulang sekolah arif mengerjakan 5 soal. Sore hari arif mengerjakan 1 soal. Pekerjaan rumah yang belum dikerjaan arif ada … soal
+Kiki mempunyai 25 buah permen. Diberikan kepada tono 12 buah. Ina memberikan 6 permen kepada kiki. Permen kiki sekarang ada … buah
+Anak itik turun dari sarang sembilan ekor. Mati tertindih batu tiga ekor. Berapa anak itik yang masih ada?
+Balon adik tujuh buah. Meletus empat buah. Tinggal berapa balon adik sekarang?
+Ita mempunyai gelang karet 12 butir. Dipakai bermain putus 6 butir. Berapakah gelang karet yang masih utuh?
+Ayam dalam kandang ada 11 ekor. Tadi dipotong 7 ekor. Berapa ayam yang masih hidup?
+Belut koko ada 9 ekor. Digoreng ibu 4 ekor. Berapa belut yang masih hidup?
+Ardi sekolah pukul 7. Ia pulang pukul 10. Berapa lama ardi sekolah?
+Pak ahmat berladang mulai pukul 5. Ia pulang pukul 11. Berapa lama pak ahmat berladang?
+Arman bermain sejak pukul 3. Pulang pukul 6. Berapa lama arman bermain?
+Lastri pergi ke tempat nenek. Ia berangkat pukul 8. Sampai pukul 12. Berapa lama perjalanan lastri?
+Ayah pergi naik bus. Bus berangkat pukul 6 pagi. Sampai di tujuan pukul 10 pagi. Berapa lama ayah naik bus?
+Pelajaran di sekolah mulai pukul 7. Selesai pukul 11. Berapa lama pelajaran berlangsung?
+Ibu pergi ke pasar pukul 8. Pulang pukul 10. Berapa lama ibu di pasar?
+Paman punya ayam tujuh ekor. Dipotong tiga ekor. Berapa ekor ayam paman sekarang?
+Ibu pergi sejak pukul 9. Pulang pukul 12. Berapa lama ibu pergi?
+Andi mempunyai 35 ekor ayam. Kemudian mati 10 ekor. Berapa sisa ayam yang dimiliki andi?
+Telur ibu ada 30 butir. Digoreng 10 butir. Berapa butir sisanya?
+Amat mempunyai 18 gelang karet. Hilang 6 buah. Berapa gelang karet amat sekarang?
+Di lapangan banyak anak bermain. Semua ada 38 anak. Telah pergi 15 anak. Anak yang masih di lapangan ada ...
+Ria mempunyai kancing 28 biji. Telah dipakai 12 biji. Sisanya adalah ...
+Ani mempunyai bekel 47 butir. Hilang 15 butir. Bekel ani sekarang adalah ...
+Ayah mempunyai 23 pensil warna. Dipakai kakak 17 buah. Pensil ayah sisanya ...
+Fira membawa 48 sisir pisang. Diambil nenek 23 sisir. Sisa pisang fira adalah ...
+Kancing baju ibu ada 59 biji. Nenek menggunakan 21 biji. Kakak membuat baju dengan. Menggunakan 17 kancing. Berapa sisa kancing ibu?
+Bibi membeli telur 40 butir. Kemudian digoreng 30 butir. Telur yang masih tersisa ada ...
+Kelereng ari 40 butir. Hilang 20 butir. Kelereng ari tinggal …
+Gelas ibu ada 39 buah. Dicuci pecah 12 buah. Gelas ibu masih …
+Armi punya 27 bekel. Hilang 11 bekel. Berapa bekel armi sekarang.
+Ima mempunyai 5 balon. Meletus 1 balon. Berapa balon ima sekarang?
+Bu guru membawa 12 kapur. Jatuh 2 kapur. Berapa kapur yang dibawa bu guru?
+Masukkan 3 buku ke dalam tas. Ambillah 3 buku dalam tas itu. Berapa buku dalam tas?
+Piring berisi 5 kue. Belum ada yang mengambil. Masih berapa kue dalam piring?
+Ada 9 kupu kupu hinggap di pohon. 2 kupu kupu itu terbang. Berapa kupu kupu yang masih hinggap di pohon?
+Nana menanam 10 bunga. 4 bunga yang mati. Berapa bunga nana sekarang?
+8 ekor burung hinggap di sebuah pohon. Ada 3 ekor burung yang terbang. Burung yang masih hinggap ada ... Ekor?
+Akuarium berisi 12 ikan. Diambil 2 ikan dan mati 3 ikan. Ikan dalam akuarium tinggal ... Ekor?
+Ani pergi ke pasar pukul 1 siang. Ani pulang pukul 2 siang. Lama ani pergi ke pasar ... Jam?
+Ada 9 kupu kupu hinggap di bunga. 2 kupu kupu kemudian terbang. Sisa kupu kupu yang hinggap di bunga itu ...
+Ari tidur mulai pukul 3. Bangun pukul 5. Berapa jam ari tidur ...
+Ika mempunyai 15 balon. Meletus 3 balon. Berapa sisa balon ika?
+Tina memetik 25 mangga. Diberikan adik 11 mangga. Berapa sisa mangga tina?
+Pak robi menanam 24 bunga. Mawar sebelumnya sudah. Ada 11 bunga. Berapa bunga pak robi sekarang?
+Murid kelas satu berjumlah 37 orang. Murid perempuan ada 15 orang. Berapa orang murid laki laki?
+Umi pedagang topi mempunyai. Persediaan 48 topi kemudian. Terjual 12 topi. Berapa banyak topi yang. Belum terjual?
+Rani membawa 36 kue. Diberikan kepada ana 12 kue. Dan diberikan kepada ina 11 kue. Berapa sisa kue rani?
+Rika mempunyai 48 kelereng. Diberikan ani 15 kelereng. Sisa kelereng rika ada ...
+Ayah menebang 39 batang bambu. Hari ini dijual 23 batang. Berapa bambu ayah yang belum terjual?
+Oni memetik 48 buah rambutan. Diberikan ima dan rudi. Masing masing 10 dan 20 rambutan. Berapa sisa rambutan oni.?
+Ibu mempunyai 18 buah mangga. Ibu memberikan 6 buah mangga kepada tetangga. Berapa sisa buah mangga ibu?
+Toko Bu Ameng menjual 264 butir telur. 121 butir telur ayam dan sisanya telur itik. Berapa butir banyak telur itik di toko Bu Ameng?
+Ibu Rini membuat kue sebanyak 8 loyang. Setiap loyang berisi 9 kue. Berapa kue yang dapat dibuat ibu Rini?
+Ada 5 kelompok murid sedang berkebun. Setiap kelompok terdiri atas 10 murid. Berapa banyak murid seluruhnya?
+Sukma menanam 4 tanaman bunga. Setiap tanaman berbunga 3. Berapa banyak bunga Sukma?
+Kelompok Abi menanam 5 tanaman cabai. Setiap tanaman berbuah 5. Berapa banyak cabai seluruhnya?
+Di kebun ada 8 pohon mangga. Setiap pohon disiram air 7 ember. Berapa ember air yang dibutuhkan untuk menyiram seluruh pohon?
+Ibu akan membuat kue. Ibu membeli 4 kantong telur. Setiap kantong berisi 8 butir telur. Berapa jumlah telur yang ibu beli?
+Ardi membersihkan barang-barang di lemari. Dua rak dalam lemari berisi piring. Setiap rak memuat 4 tumpuk piring. Setiap tumpukan ada 10 piring. Berapa jumlah piring di lemari?
+Di lemari juga ada 4 tumpuk kardus. Setiap tumpuk terdiri atas 2 kardus. Setiap kardus berisi 6 gelas. Berapa jumlah gelas di lemari?
+Ada 2 kardus berisi sabun cuci. Setiap kardus berisi 5 bendel. Setiap bendel ada 6 sabun cuci. Berapa jumlah sabun cuci seluruhnya?
+Tiga anak sedang mengangkat genting. Setiap anak mengangkat 3 genting. Setiap anak mengangkat 8 kali. Berapa jumlah genting yang diangkat seluruhnya?
+Ali mempunyai 9 kotak kelereng. Setiap kotak berisi 8 kelereng. Oleh karena 3 kotak kelereng diminta adiknya, Ali menempatkan kelerengnya dalam 6 kotak. Berapa kelereng dalam setiap kotak sekarang?
+Ibu membeli 5 kg buah jeruk. Setiap 1 kg berisi 7 buah jeruk. Berapa buah jeruk yang dibeli ibu?
+Dalam upacara bendera, peserta dibagi menjadi 4 kelompok. Satu kelompok terdiri atas 8 baris. Setiap baris ada 3 siswa. Berapa siswa yang ikut sebagai peserta upacara?
+Nita mempunyai 8 bungkus permen. Setiap bungkus berisi 5 permen. Banyak permen Nita
+Untuk membuat 1 roti diperlukan 6 telur. Berapa telur yang dibutuhkan untuk membuat 9 roti?
+Ada 3 buah keranjang. Masing-masing keranjang berisi 5 buah apel. Coba kamu hitung banyaknya buah apel tersebut.
+Ada 2 keranjang buah pir. Masing-masing keranjang berisi 6 buah pir. Jadi, banyaknya buah pir adalah
+Ada 6 tangkai buah anggur. Masing-masing tangkai berisi 10 buah anggur. Jadi, banyaknya buah anggur adalah
+Marbun baru selesai memetik mangga di kebunnya. Ia meletakkan mangga ke dalam 5 keranjang. Tiap keranjang berisi 6 buah mangga. Berapa buah mangga yang telah dipetik Marbun?
+Ibu Ema memiliki 3 keranjang. Tiap keranjang ada 8 buah apel. Berapa banyaknya buah apel yang dimiliki ibu Ema?
+Ibu Marbun menjual 8 kg buah mangga. Tiap kilogram berisi 6 buah mangga. Berapa mangga yang dijual ibu Marbun?
+Ada 9 kelompok belajar di kelas. Tiap kelompok beranggotakan 4 siswa. Berapakah banyaknya siswa di dalam kelas?
+Ada 3 pohon mawar di halaman rumah Ema. Tiap pohon berbunga 3 tangkai. Berapa tangkai bunga mawar yang ada di pohon?
+Ada 5 meja di restoran.  Masing-masing meja terdapat 4 orang yang sedang makan.  Berapa banyak orang yang makan di restoran itu?
+Di meja sebelah utara terdapat 5 piring.  Masing-masing piring berisi 3 buah jeruk.  Berapa banyak jeruk yang ada di meja itu?
+Di meja sebelah barat terdapat 4 piring.  Masing-masing piring berisi 4 kue coklat.  Berapa banyak kue coklat yang ada di meja sebelah barat?
+Di dapur restoran ada 3 orang koki.  Masing-masing koki sedang menggoreng 3 ikan.  Berapa banyak banyak ikan yang digoreng di dapur?
+Heri membeli 5 pak buku, tiap pak berisi 6 buku. Berapa jumlah buku yang dibeli Heri?
+Anang memelihara 6 ayam, tiap ayam bertelur 5.  Berapa telur yang dihasilkan ayam Anang seluruhnya?
+Rudi mempunyai 3 kotak pensil, tiap kotak berisi 6 pensil.  Berapa pensil Rudi seluruhnya?
+Paman memiliki 5 pohon mangga yang sudah berbuah. Dari setiap pohon diambil 8 mangga. Berapa banyak mangga yang diambil Paman?
+Ada 7 mobil roda 4 parkir di depan gedung olahraga. Berapa banyak roda semuanya?
+Pak Lukman membagikan buku kepada 4 murid. Setiap murid mendapat 3 buku. Berapa banyak buku semuanya?
+Ibu memiliki 4 buah kotak kue, masing-masing kotak terdapat 10 kue. Berapa banyak kue yang dimiliki ibu?
+Pak Beny memiliki 3 kandang sapi, masing-masing kadang berisi 10 sapi. Berapa sapi yang dimiliki oleh Pak Beny?
+Dalam satu hari seorang pembuat dompet dapat menyelesaikan 5 dompet, berapa dompet yang dapat diselesaikan dalam 5 hari? Ibu ingin membagikan jambu kepada tiga anaknya, Ima, Ami, dan Mia. Masing-masing anak memperoleh 5 jambu.  Berapa banyak jambu yang telah dibagi ibu?
+Setiap hari minggu petty pergi berenang. Setiap berenang ia berenang sejauh 167 meter. Berapa meter jarak yang ditempuh petty dalam 3 minggu?
+Tiga orang satpam membawa peluit. Masing masing satpam mempunyai 2 peluit. Berapa jumlah peluit mereka?
+Pak hamid memiliki 3 buah kardus masing masing kardus berisi 4 buah telepon berapa banyak telepon pak hamid seluruhnya
+Bi inah membeli 3 bungkus tahu tiap bungkus berisi 3 potong tahu berapa potong banyak tahu yang dibeli bi inah
+Dalam satu plastik terdapat 4 kue  Voni membeli 3 plastik kue Berapa jumlah semua kue voni?
+pak soni membeli 3 kardus apel dalam tiap kardus terdapat 4 kantong apel tiap kantong berisi 5 buah berapa jumlah seluruh apel pak soni?
+Tina membeli 4 kardus roti donat tiap kardus berisi 6 buah roti donat berapa banyak semua roti donat tina?
+Berat 1 ekor ikan mas kira kira 3 kg. Berapa berat 3 ekor ikan mas?
+Panjang sebuah wortel kira kira 25 cm. Berapa panjang 4 buah wortel?
+Linda mempunyai 6 bungkus permen. Setiap bungkus berisi 10 permen. Berapa permen yang dimiliki Linda?
+Pak Imam mempunyai 3 orang anak. Beliau mempunyai 18 buah roti. Beliau ingin setiap anaknya mendapatkan jumlah roti yang sama. Berapa roti yang diterima oleh setiap anak?
+Alma mempunyai 7 kotak pensil. Setiap kotak berisi 4 buah pensil. Berapa jumlah semua pensil alma?
+Ibu memetik 24 kuntum bunga. Ibu mempunyai 3 buah vas bunga. Ibu memasukkan bunga ke dalam vas sama banyak. Berapa isi setiap vas?
+Kakak mempunyai 5 sangkar burung. Setiap sangkar berisi 6 ekor burung. Suatu hari satu sangkar burung hilang beserta isinya. Berapa jumlah burung kakak sekarang?
+Ibu membuat 54 kotak makanan. Makanan tersebut akan diberikan kepada 6 panti asuhan. Berapa kotak yang diterima oleh setiap panti asuhan?
+SD Pintara mempunyai 6 kelas. Setiap kelas berisi 30 orang siswa. Berapa jumlah siswa sekolah tersebut?
+Ayah membeli 5 karung beras. Setiap karung beratnya 5 kg. Dimasak oleh ibu 5 kg. Berapa kg sisa beras?
+Aku mempunyai uang 100 rupiah Aku ingin membeli 2 buah permen Berapa harga permen agar uang tersebut tidak tersisa?
+Ibu mendapat kiriman manggis dari 2 orang anaknya. Masing masing anak mengirim 42 manggis. Berapa manggis yang diterima oleh ibu?
+Ayah menyuruh Ifan ke warung. Dia disuruh membeli 7 bungkus kerupuk. Bila tiap bungkus berisi 7 buah kerupuk. Berapa kerupuk yang dibeli ifan?
+Yaya suka membuat boneka dari kain flanel. Dalam satu hari, dia bisa membuat hingga 15 buah boneka. Berapa buah boneka yang bisa dibuat oleh Yaya dalam 12 hari?
+Pohon mangga kakek berbuah sangat lebat. Pada saat panen, kakek ingin menjual mangga-manganya ke pasar. Kakek membungkusnya menjadi 37 kantong. Tiap kantongnya berisi 8 butir mangga. Berapakah jumlah keseluruhan mangga milik kakek yang dibawa atau dijualnya di pasar?
+Tutu membeli 36 butir kelereng. Jika setiap butir kelereng seharga 500, berapa jumlah uang yang harus dibayarkan oleh Tutu?
+Jumlah anggota pramuka SD Mawar adalah 37 anak. Jika setiap anggota mendapat 13 bendera, berapa jumlah seluruh bendera tersebut?
+Indro membawa 15 kotak coklat. Setiap kotak berisi 21 batang coklat. Berapa batang coklat seluruhnya yang dibawa Indro?
+Pohon kelengkeng kakek berbuah begitu lebat. Di saat panen, kakek ingin sekali menjual kelengkengnya ke pasar. Kemudian kakek membungkusnya menjadi 40 kantong. Untuk setiap kantongnya berisi 10 buah kelengkeng. Jadi berapakah jumlah keseluruhan kelengkeng milik kakek yang akan dijualnya di pasar?
+Unang suka sekali membuat boneka dari sebuah kain flanel. Didalam satu hari, dia dapat membuat sampai 16 buah boneka. Apabila dia secara terus menerus membuat boneka selama 15 hari berapakah boneka yang sudah di hasilkan Unang?
+Joni sangat gemar sekali membaca buku. untuk setiap hari, dia sudah membaca sebanyak 75 halaman buku. Berapakah jumlah halaman buku yang sudah dibaca Joni, apabila Jano itu membaca bukunya selama 28 hari, berapakah jumlah halaman buku tersebut
+Ada sebuah kelompok anak pramuka yang jumlah anggotanya ada 35 anak, yang dimana setiap angotanya memiliki 5 buah topi. Maka jumlah keseluruhan topi milik anggota tersebut adalah..
+Aji membeli 43 butir kelereng. Apabila tiap butir kelereng itu seharga 600. Jadi berapakah jumlah keseluruhan uang yang harus dibayarkan Aji?
+Ino baru saja membeli satu penghapus seharga Rp 2000. Jika Nara membeli 5 penghapus yang sama, maka Nara harus membayar sebesar Rp …
+Terdapat 5 lembar surat di dalam amplop. Berapa jumlah surat jika terdapat 3 amplop?
+Bu Susi menjual sebuah pulpen seharga Rp 3000, berapa total harga 15 buah pulpen?
+Paman memiliki 5 cucu dan memberikan 5 kotak pensil kepada masing-masing cucunya. Berapakah jumlah kotak pensil yang harus disediakan paman?
+Lando mempunyai 4 keranjang, setiap keranjang berisi 3 bola. Berapa jumlah bola semuanya ?
+4 buah mobil akan pergi outing. Satu mobil berisi 6 orang. Berapa jumlah orang semuanya yang akan pergi outing ?
+Ruma akan membuat 6 mangkok bakso. Setiap mangkok berisi 5 buah bakso. Berapa buah jumlah bakso yang dibutuhkan Ruma ?
+Andi membeli 3 kotak permen. Setiap kotak permen bersisi 10 permen. Berapa banyak permen yang Andi bawa ?
+Andi memelihara 6 ekor ayam. Setiap hari seekor ayam menghabiskan makanan 12 makanan. Jumlah makanan yang harus disediakan Andi setiap hari adalah ….
+Bagas membeli 9 kardus mie instan. Setiap kardus berisi 24 bungkus mie. Berapa bungkus jumlah seluruh mie yang dibeli Bagas ?
+SMP Maju Jaya mempunyai jumlah ruang kelas sebanyak 12. Jika setiap ruang kelas berisi 26 siswa. Maka jumlah seluruh siswa SMP Maju Jaya adalah ….
+Ayah membawa 10 platik berisi buah apel. Setiap plastik berisi 15 buah apel. Jumlah seluruh apel yang dibawa ayah adalah ….
+Di dalam perpustakaan SDN Tambakromo ada 12 rak buku. Setiap rak berisi 32 buku. Maka jumlah seluruh buku yang ada di perpustakaan SDN Tambakromo adalah ….
+Bu Anita membeli 20 pak permen untuk dijual kembal. Setiap pak berisi 24 permen. Maka jumlah seluruh permen yang dibeli Anita adalah ….
+Bu Sinta membeli 35 kardus roti untuk disumbangkan ke bencana alam. Setiap kardus berisi 40 bungkus roti. Maka jumlah roti yang disumbangkan Bu Sinta adalah …. bungkus.
+Les memasang senar pada 5 gitar. Setiap gitar memiliki 6 senar.Berapa jumlah senar yang Les butuhkan untuk semua gitar?
+Adi membeli 5 kantong kelereng. Di setiap kantong itu isinya 10 buah kelereng. Jadi berapakah jumlah keseluruhan kelereng yang sudah dibeli Adi….
+Pak Abdi sudah membeli 10 kardus roti. Di setiap kardusnya itu berisi 10 bungkus roti. Jadi berapa jumlah keseluruhan roti yang sudah dibeli Pak Abdi sekrang….
+Hasan membeli 2 lusin buku yang setiap lusinnya ada 12 buku. Jadi berapakah jumlah keseluruhan buku Hasan sekarang ….
+Pak Herman membeli 3 sak semen yang setiap saknya seberat 20 kg, jadi berapakah berat keseluruhan semen pak Herman sekarang …..
+Rani membeli 3 bungkus permen. Setiap bungkus berisi 9 permen. Jumlah seluruh permen rani adalah ….
+Bayu membawa 4 kardus roti. Setiap kardus berisi 11 bungkus roti. Jumlah seluruh roti yang dibawa Bayu adalah ….
+Bu Sinta membeli 6 platik jeruk. Setiap plastik berisi 8 jeruk. Jumlah seluruh jeruk yang dibeli Bu Sinta adalah ….
+Siska membeli 5 plastik buah jeruk di pasar. Setiap plastik buah tersebut berisi 12 buah jeruk. Jadi berapakah jumlah buah jeruk yang dibeli Siska?
+Bayu mempunyai 6 kotak kelereng. Setiap kotak berisi 15 kelereng. Jadi berapakah jumlah kereng yang dimiliki oleh bayu?
+Dalam sebuah kotak terdapat 8 pulpen. Jika ada 19 kotak, maka berapakah total pulpen dalam semua kotak?
+Pak Adi memiliki 3 buah kandang ayam. Jika dalam setiap kandang terdapat 27 ekor ayam, maka berapa total ayam yang Pak Adi punya?
+Terdapat 5 lembar surat di dalam amplop. Berapa jumlah surat jika terdapat 10 amplop?
+Bu Susi menjual sebuah penghapus seharga Rp 2000, berapa total harga 7 buah penghapus?
+Bulan memiliki 5 tali dan setiap tali dikalungkan 7 buah permen. Maka berapa jumlah permen Bulan?
+Tina membeli 10 kotak berisi kelereng, dan setiap kotak berisi 7 butir kelereng. Berapakah jumlah kelereng yang Tina beli?
+Pak Ahmad memiliki pekarangan berisi 3 kandang sapi. Masing-masing kandang berisi 8 ekor sapi. Berapa sapi yang dimiliki Pak Ahmad?
+Juni membeli 10 bungkus apel. Setiap bungkusnya berisi 6 apel, maka berapa total apel yang dibeli Juni?
+Andi ingin membagikan 54 pensil kepada 6 temannya, maka teman Andi masing-masing akan mendapatkan ... pensil
+Pak Tanjung memetik 21 buah kelapa dari seluruh pohon miliknya. Dari setiap pohon dipetik 7 buah kelapa. Jika kamu disuruh menghitung, berapa batang pohon kelapa yang dimiliki Pak Tanjung?
+Amir membagikan 56 buah jeruk kepada 8 temannya. Semua anak mendapat jeruk sama banyak. Jika kamu menjadi teman Amir, berapa buah jeruk yang akan kamu terima?
+Kebun sekolah akan ditanami 48 batang bibit ketela pohon. Bibit-bibit itu ditanam dalam 6 baris. Jika kamu ikut menanam ketela pohon dan setiap baris ditanami sama banyak, berapa batang ketela pohon tiap barisnya?
+Abi mempunyai 72 buah jambu. Jambu itu dibagikan kepada 8 temannya sama banyak. Jika kamu menjadi teman Abi, berapa buah jambu yang akan kamu terima?
+Yanti mempunyai 80 buah rambutan. Rambutan tersebut akan dimasukkan ke dalam 8 kantung plastik. Setiap kantung berisi buah rambutan sama banyak. Jika kamu dimintai tolong Yanti, berapa buah rambutan dalam setiap kantungnya?
+Yanti membawa pita sepanjang 20 cm. Pita tersebut dipotong menjadi 2 potongan sama panjang. Potongan pita itu dipotong lagi menjadi 2 potongan sama panjang. Jika kamu disuruh menentukan panjang potongan pita terakhir, berapa panjang pita itu?
+36 permen dibagikan kepada 6 kelompok. Setiap kelompok terdiri atas 2 anak. Jika kamu termasuk dalam salah satu kelompok, berapa permen yang akan kamu terima?
+81 batang pensil akan dibagikan kepada 9 kelompok belajar sama banyak. Pensil yang diterima setiap kelompok dibagikan kepada anggotanya sama banyak. Setiap kelompok beranggota 9 anak. Jika kamu termasuk dalam salah satu anggota kelompok, berapa banyak pensil yang akan kamu terima?
+Ibu membeli salak sebanyak 40 buah. Buah salak itu dibagikan kepada Sukma, Yanti, Amir, Rio, dan Abi sama banyak. Oleh karena Abi tidak menyukai salak, bagian Abi dibagikan kepada empat temannya sama banyak. Berapa banyak buah salak yang diterima setiap anak?
+Sebanyak 48 anak akan menjenguk temannya di rumah sakit. Sekali kunjungan hanya diperbolehkan 8 anak. Berapa kali kunjungan yang harus dilakukan?
+Beras sebanyak 36 karung dibagikan kepada 6 keluarga. Setiap keluarga mendapat jatah beras sama banyak. Setiap keluarga mendapat jatah beras untuk 3 orang. Setiap orang mendapat beras sama banyak. Berapa karung beras yang diterima setiap orang?
+72 pensil dibagikan kepada 9 kelompok belajar. Setiap kelompok mendapat bagian yang sama. Setiap kelompok beranggotakan 8 anak. Berapa pensil yang diterima setiap anak?
+Murid kelas dua sebanyak 36 orang. Akan dibentuk 9 kelompok belajar. Banyak anggota tiap kelompok . . . orang.
+Nia mempunyai pita sepanjang 72 cm. Nia memotong pita itu menjadi 9 bagian sama panjang. Berapa cm panjang setiap bagian?
+Marbun, Abid, Ema, dan Menik sedang di kebun. Mereka memetik 8 buah mangga. Mangga tersebut mereka bagi rata. Berapa buah mangga bagian mereka masing-masing?
+Marbun mempunyai 15 butir permen. Permen tersebut ia bagikan kepada kawan-kawannya. Masing-masing kawannya mendapat 3 butir permen. Berapa orang kawan Marbun yang mendapat permen?
+Ada 24 buah rambutan. Marbun, Abid, Ema, dan Menik membaginya rata. Berapa buah rambutan bagian setiap anak?
+Di kelas II ada 40 siswa. Mereka dibagi menjadi 8 kelompok. Masing-masing kelompok terdiri dari berapa siswa?
+Ibu Marbun membuat 30 potong kue. Kue itu dibagikan kepada tetangganya. Masing-masing tetangga mendapat 5 potong kue. Berapa tetangga yang diberi kue?
+Ada 96 orang peserta gerak jalan. Gerak jalan dilakukan secara berkelompok. Tiap kelompok terdiri dari 8 orang. Ada berapa kelompok dalam gerak jalan tersebut?
+Kakek Abid mempunyai kebun. Luas kebun itu 36 meter persegi. Kakek Abid menanami kebunnya dengan 4 jenis tanaman. Setiap tanaman menempati tanah yang sama luasnya. Berapa meter persegi luas tanah untuk masing-masing jenis tanaman?
+Marbun dan Abid memetik 64 buah mangga. Mangga-mangga itu dimasukkan ke dalam 4 keranjang. Tiap keranjang berisi buah mangga yang sama banyak. Berapa banyaknya buah mangga dalam setiap keranjang?
+Ada 24 siswa mengikuti lomba cerdas tangkas. Cerdas tangkas adalah lomba beregu. Setiap regu terdiri dari 3 siswa. Berapa regu yang mengikuti lomba cerdas tangkas?
+Lia mempunyai 6 es krim.  Lia ingin membagikannya kepada Fitri dan Anis.  Jadi dia membagi es krim tersebut menjadi 3 bagian.  Berapa banyak es krim yang dimakan masing-masing?
+Lomba senam diikuti oleh 20 anak. Mereka dikelompokkan menjadi 5 kelompok. Setiap kelompok ada ... orang.
+Empat puluh lima buku tulis diberikan kepada 9 anak. Setiap anak mendapat _ buku.
+Lima puluh empat apel dibagikan kepada 6 anak.  Setiap anak mendapat_ apel.
+Tujuh puluh dua pensil dibagikan kepada 8 orang.  Setiap orang akan mendapat _pensil
+Farhan memiliki lima puluh enam kelereng.  Dia akan meminjamkan kelereng itu kepada 8 orang temannya. Teman Farhan masing-masing akan memperoleh kelereng sebanyak
+Pak Yunus memiliki 8 bola, dibagikan kepada 4 orang anaknya dan masing masing anak mendapat bagian yang sama.  Berapa banyak bola untuk masing-masing anak?
+Kelas 2 memiliki 24 siswa, apabila akan dibagi menjadi 6 kelompok, berapa banyak siswa dalam tiap kelompok? 
+Seorang pedagang gembok membawa 3 kardus gembok isi masing masing kardus sama banyak  jumlah seluruh gembok 15 buah berapa buah gembok isi masing masing kardus?
+Diana mempunyai 12 buku cerita buku buku itu akan dipinjam teman temannya. Jika setiap anak meminjam 4 buku, berapa banyak anak yang meminjam buku Diana?
+Pak hamid memiliki 12 pesawat telepon telepon telepon tersebut akan dimasukkan ke dalam 4 buah kardus sama banyak berapa isi masing masing kardus
+Ibu lusi memetik 20 tangkai bunga Bunga bunga itu dirangkai dan dibagi dalam 4 vas bunga Berapa tangkai bunga isi tiap vas bunga?
+Fadil mempunyai 30 butir kelereng. Dia ingin memberikannya kepada kiki, rama dan haqi sama banyak berapa butir kelereng yang diterima masing masing anak
+Linda mempunyai 6 bungkus permen. Setiap bungkus berisi 10 permen. Berapa permen yang dimiliki Linda?
+Pak Imam mempunyai 3 orang anak. Beliau mempunyai 18 buah roti. Beliau ingin setiap anaknya mendapatkan jumlah roti yang sama. Berapa roti yang diterima oleh setiap anak?
+Alma mempunyai 7 kotak pensil. Setiap kotak berisi 4 buah pensil. Berapa jumlah semua pensil alma?
+Ibu memetik 24 kuntum bunga. Ibu mempunyai 3 buah vas bunga. Ibu memasukkan bunga ke dalam vas sama banyak. Berapa isi setiap vas?
+Kakak mempunyai 5 sangkar burung. Setiap sangkar berisi 6 ekor burung. Suatu hari satu sangkar burung hilang beserta isinya. Berapa jumlah burung kakak sekarang?
+Ibu membuat 54 kotak makanan. Makanan tersebut akan diberikan kepada 6 panti asuhan. Berapa kotak yang diterima oleh setiap panti asuhan?
+SD Pintara mempunyai 6 kelas. Setiap kelas berisi 30 orang siswa. Berapa jumlah siswa sekolah tersebut?
+Ayah membeli 5 karung beras. Setiap karung beratnya 5 kg. Dimasak oleh ibu 5 kg. Berapa kg sisa beras?
+Aku mempunyai uang 100 rupiah Aku ingin membeli 2 buah permen Berapa harga permen agar uang tersebut tidak tersisa?
+Ibu mendapat kiriman manggis dari 2 orang anaknya. Masing masing anak mengirim 42 manggis. Berapa manggis yang diterima oleh ibu?
+Ayah menyuruh Ifan ke warung. Dia disuruh membeli 7 bungkus kerupuk. Bila tiap bungkus berisi 7 buah kerupuk. Berapa kerupuk yang dibeli ifan?
+Di kantor ayah ada 24 pegawai. Satu ruangan ditempati oleh 4 orang. Ada berapa ruangan di kantor ayah?
+Suatu hari Ibu guru membawa 212 batang pensil warna ke sekolah untuk diberikan kepada murid-muridnya. Apabila setiap murid mendapat 4 batang pensil, berapakah jumlah murid Bu Guru?
+Dono sedang belajar menggambar. Setiap hari dia menggambar dan menghabiskan 9 lembar kertas putih. Apabila Dono memiliki 378 lembar kertas putih, maka berapa harikah kertas putih Dono tersebut akan habis digunakan?
+Ibu mengadakan pertemuan rutin di rumah. Untuk menjamu tamu-tamu yang datang, Ibu menyiapkan 270 buah jajan kudapan/snack. Jajan tersebut ditaruh di dalam kardus kecil. Apabila tiap-tiap kardus berisi 5 buah jajan, berapakah jumlah seluruh tamu Ibu dalam pertemuan tersebut?
+Pak Alde seorang pedagang sepatu. Dalam waktu 5 hari, dia berhasil menjual 320 sepatu. Berapa sepatu yang berhasil terjual setiap harinya?
+Di suatu hari pak guru membawa 240 pensil warna ke sekolah agar diberikan pada murid-muridnya. Apabila disetiap murid akan mendapatkan 5 pensil, jadi berapakah jumlah murid dari pak Guru?
+Pak Acong adalah seseorang pedagang buah jeruk. Didalam waktu 12 hari, dia sudah berhasil menjual 624 kg jeruk. Jadi dalam sehari berapakah kilo yang terjual?
+Dino sedang belajar untuk menggambar. Pada setiap hari dia akan menggambar lalu menghabiskan 8 lembar kertas putih. Apabila Dino mempunyai 720 lembar kertas putih, maka untuk menghabiskan kertas putih tersebut membutuhkan berapa hari ?
+Ibu sedang mengadakan pertemuan rutin yang berada di rumahnya. Untuk menjamu sang tamu-tamu yang akan datang, Ibu akan menyiapkan 540 buah jajan kudapan atau snack. Jajan itu sudah ditaruh di dalam sebuah kardus. Apabila setiap kardus itu berisi 12 buah snack, maka berapakah jumlah keseluruhan tamu Ibu didalam pertemuan tersebut?
+Adit memiliki 81 kelereng dan ia ingin memasukkannya kedalam 9 kotak dengan jumlah yang sama rata, Maka setiap kotaknya akan berisi...
+Cika memiliki 180 butir telur. Jika Cika ingin membagi telur miliknya ke 10 orang temannya, maka masing-masing teman Cika akan mendapat … butir telur
+Jalu mempunyai 16 buah permen. Dia ingin membagi semua permen itu kepada 4 temannya dengan sama banyak. Berapa jumlah permen yang didapatkan oleh setiap teman ?
+Gilang membeli 18 buah buku. Buku itu akan diberikan kepada 9 temannya sama banyak. Berapa buku yang didapatkan setiap anak ?
+28 anak pergi naik mobil. Satu mobil hanya memuat 4 anak. Berapa mobil yang dibutuhkan untuk mengangkut semua anak ?
+Talita mempunyai 21 tangkai bunga. Dia hanya mempunyai 3 buah vas (tempat) bunga. Semua bunga harus dimasukkan ke dalam vas itu sama banyak. Berapa buah jumlah bunga di dalam setiap vas
+Syafiq membawa 32 buah Duku. Dia ingin membagi semua Dukunya kepada 8 orang temannya. Berapa jumlah Duku yang didapatkan oleh setiap temannya
+Sebanyak 25 karung pasir diangkut oleh 5 orang. Jika karung pasir diangkut dengan sama banyak. Berapa karung pasir yang diangkut setiap orang ?
+Sebanyak 739 karung tepung akan diangkut oleh 9 truk. Jika muatan setiap truk sama, berapa karung muatan tiap truk ?
+Siswa sebuah SMP ada 287 orang. Jumlah siswa di setiap kelas sama banyak. Berapa orang siswa di setiap kelas jika terdapat 7 kelas ?
+Sebanyak 490 semangka akan dimasukkan ke dalam keranjang. Setiap kantong bersisi 9 semangka. Berapa keranjang yang diperlukan ?
+Sebuah supermarket menjual 4.581 kue. Kue dikemas dalam kotak dan setiap kotak berisi 9 kue. Berapa kotak kue yang dijual pabrik tersebut ?
+Rehan memiliki uang 24500 yang akan dibagikan kepada 7 orang temannya sama banyak. Berapa rupiah yang diperoleh setiap anak ?
+Sebanyak 7200 peserta ujian akan menempati 90 ruangan. Setiap ruangan berisi peserta dengan jumlah yang sama. Berapa banyak peserta dalam tiap ruangan ?
+Banu telah mengoleksi perangko sebanyak 100 perangko. Banu ingin menempelkan perangkonya ke atas 10 kertas dengan sama rata. Maka setiap kertas nantinya akan berisi … perangko.
+Yuli membawa oleh-oleh dari liburan berupa 60 gantungan kunci. Yuli ingin membagikan gantungan kunci tersebut untuk 12 teman baiknya secara sama rata. Maka setiap teman baik Yuli akan mendapatkan …. gantungan kunci.
+Ibu baru saja selesai membuat 72 potong kue bolu. Ibu ingin menaruhnya di dalam 8 piring secara sama rata. Jumlah kue bolu tiap piring nantinya adalah sebanyak ….
+Bu guru Sinta membeli 75 pensil untuk hadiah murid-muridnya. Jumlah murid Bu Sinta adalah 25 orang. Jika Bu Sinta ingin membaginya sama rata. Maka setiap murid nantinya akan mendapatkan …. pensil.
+Risa membeli 144 manggis. Manggis itu dimasukkan ke dalam 8 kantong plastik. Maka setiap kantong plastik itu berisi ….
+Pak Ahmad memanen 180 buah mangga. Ia memasukkan buah mangga tersebut ke dalam 10 ranjang secara sama rata. Maka jumlah mangga setiap ranjang berisi …. mangga.
+Ibu membeli 132 Kg beras. Setiap hari menghabiskan 2 Kg beras. Maka beras tersebut akan habis selama …. hari.
+Bu Karina mempunyai 72 buah apel. Ia ingin memasukkan buah apel tersebut ke dalam 6 buah plastik secara sama rata. Maka jumlah buah apel tiap plastik adalah ….
+Deni memiliki koleksi 96 perangko. Ia akan menempelkan perangkonya ke dalam 12 kertas besar miliknya secara sama rata. Jadi nantinya jumlah perangko dalam setiap kertas adalah ….
+Rudi memiliki 84 kelereng. Rudi ingin memasukkan ke dalam 4 kotak secara sama rata. Jadi nanti setiap kotak akan berisi ….
+Pak Sandi baru saja membeli 80 bungkus roti bolu. Roti tersebut akan dibagikan kepada 8 saudaranya secara rata. Jadi berapakah jumlah roti yang didapatkan oleh setiap saudara Pak Sandi?
+Bu Lia telah membuat 90 roti coklat untuk pesta ulang tahun anaknya. Bu Lia ingin menaruh roti coklatnya tadi ke dalam 10 piring secara rata. Jadi berapakah jumlah roti coklat yang ada di setiap piring?
+Pak Ahmad beternak 45 Sapi. Ia menaruh sapinnya di 5 kandang yang berbeda dengan jumlah yang sama. Jadi berapakah jumlah sapi yang berada di setiap kandangnya?
+Anang memiliki 81 buah jambu. Jika ia ingin membagikan pada 9 temannya, maka masing-masing teman akan mendapat...
+Ibu baru saja membeli 285 ikat bunga. Sampai di rumah, Ibu meletakkan bunga-bunga tersebut ke dalam 5 pot besar dengan jumlah sama banyak. Berapakah jumlah bunga di dalam setiap pot?
+Suatu hari kakek datang dengan membawa sekantung penuh cokelat. Kakek ingin membagi cokelat tersebut untuk 7 orang cucunya secara adil sama banyak. Apabila jumlah cokelat yang dibawa kakek adalah 252 butir, berapakah cokelat yang diterima oleh setiap cucu kakek?
+Bibi Nina memelihara ikan hias di rumahnya. Jumlah ikan hias milik Bibi Nina cukup banyak, yaitu berjumlah 414 ekor. Suatu hari Bibi membagikan semua ikannya itu kepada anak-anak di sekitar rumahnya. Apabila setiap anak mendapatkan 9 ekor ikan sama banyak, berapakah jumlah anak yang menerima ikan dari Bibi Nina?
+Suatu hari Ibu Guru Tati membawa banyak sekali buku cerita bergambar ke sekolah. Buku-buku yang dibawa Ibu Guru semuanya berjumlah 225 buku. Buku itu kemudian dipinjamkan kepada siswa-siswi untuk dibaca. Apabila setiap siswa menerima masing-masing 3 buku sama banyak, berapakah jumlah siswa yang meminjam buku cerita dari Ibu Guru Tati?
+Pak Unang memiliki 1500 ekor ikan lalu ia ingin membagi ikan ikan tersebut kedalam 5 kolam dengan jumlah yang sama rata. Maka masing – masing kolam berisi ……
+Pak Asep membeli 350 duku lalu dia ingin memasukkannya kedalam 5 keranjang dengan jumlah sama rata. Jadi masing – masing keranjang berisi……
+Jesi memiliki 24 pena dan ia ingin memasukkan pena – pena tersebut kedalam 4 pensil yang berbeda. Maka masing – masing kotak pensil tersebut berisi ……..
+Pak Hasan memiliki 300 buah kelapa lalu ia ingin membagi – bagi kelapa tersebut menjadi 100 gandeng. Maka segandeng terdapat berapa buah kelapa…….
+Adi membeli 270 kelereng dan ia ingin memasukkan kelereng -kelereng tersebut kedalam 9 mangkuk dengan jumlah yang sama rata. Maka berapa kah isi kelereng dalam semangkuk …..
+Fauzi membeli 200 ekor ayam lalu dia mau mebagi-bagi ayam tersebut kedalam 10 kandang dengan jumlah yang sama . Jadi masing – masing kandang terdapat …..
+Ipah mempunyai 250 kg beras dan ia ingin membagi – bagikan beras tersebut ke 5 orang tetangganya, maka masing – masing tetangganya mendapatkan ……
+Puji memiliki 24 buku tulis dan puji ingin membagi 2 buku itu kepada nina, maka nina akan mendapatkan berapa buku….
+Rangga membeli 100 stik lalu dia membaginya kedalam 4 kotak dengan jumlah sama rata, maka berapakah jumlah masing – masing kotaknya ……
+Ijah membeli 1000 alpukat lalu ia membaginya kedalam beberapa karung yang masing – masing karungnya terdapat 100 alpukat. Lalu berapa karung harus diperlukan Ijah …..
+Jumlah siswa di sekolah SD Melati ada 60 siswa yang terbagi ke dalam 6 kelas. Jika isi semua kelas berjumlah sama, maka berapakah siswa di dalam masing-masing kelas?
+Pak Peno memiliki 64 pensil yang akan dibagikan sama rata kepada 8 cucunya. Maka masing-masing cucu akan menerima... pensil
+Nina mempunyai 5 buah boneka. Diberikan kepada tami 2 buah. Ayah membelikan nina 1 buah boneka. Berapa boneka nina sekarang?
+Wati dibelikan 17 buah mangga. Dimakan wati 5 buah. Nenek memberi nina 3 buah mangga lagi. Berapa mangga nina sekarang?
+Bayu mempunyai 4 pasang sepatu. Dibelikan ayah 1 pasang sepatu. 2 pasang sepatu bayu sudah tidak dapat dipakai lagi. Berapa sepatu bayu yang masih dapat dipakai?
+Sita menanam 9 bunga mawar. 4 bunga mawar diberikan kepada atik. Sita menanam kembali 3 bunga mawar. Berapa banyak bunga mawar sita sekarang?
+Sd makmur menjahitkan seragam pada bu susi. Hari minggu bu susi menjahit 33 seragam. Hari rabu bu susi menjahit lagi 15 seragam. Hari jumat 27 seragam sudah jadi. Seragam yang belum jadi ada … seragam
+Desi membuat 15 pita rambut. Desi membuat lagi 33 pita rambut. Pita rambut desi terjual 27 buah. Pita rambut desi yang belum terjual ada … buah
+Tino mencari ikan di sungai. Tino mendapat 15 ekor ikan. Diberikan kepada ali tiga ekor. Tino memancing lagi. Tino mendapat 22 ekor ikan. Ikan tino sekarang ada … ekor
+Ada 17 gelas sirup. Para tamu minum 12 gelas. Disajikan lagi 20 gelas sirup. Berapa gelas yang belum diminum?
+Roni mempunyai 25 kelereng. Diberikan kepada tono 5 kelereng. Kemudian membeli lagi 10 kelereng. Berapa jumlah kelereng roni sekarang?
+Nenek mempunyai permen 26 butir. Diberikan kepada cucunya 5 butir. Nenek membeli lagi 7 butir. Berapa permen nenek sekarang?
+Kelereng ari 30 butir. Diberi bibi 12 butir. Hilang 8 butir. Kelereng ari sekarang adalah ...
+Agus punya koin 24 keping. Hilang 10 keping. Ia membeli 5 keping. Banyak koin agus adalah ...
+Paman memetik 42 jeruk. Diberikan tetangganya 14 buah. Memetik lagi 30 buah. Banyak jeruk paman sekarang ada ...
+Neni mempunyai 9 pita. Diberi oleh sinta 7 pita. Tidak dapat dipakai 11 pita. Pita neni yang dapat dipakai adalah ...
+Kelereng budi 26 butir. Hilang 11 butir. Ia membeli lagi 10 butir. Berapa butir kelereng budi sekarang?
+Ayah menanam 15 batang jeruk. Mati 4 batang. Menanam lagi 7 batang. Berapa batang jeruk yang masih hidup?
+Andri mempunyai 37 butir telur. Hilang 19 butir. Diberi oleh ayah 13 butir telur. Berapa banyak telur andri sekarang?
+Pak umar mempunyai 5 kelinci. Hari ini mati 1 kelinci. Dibeli bu ali 2 kelinci. Berapa kelinci pak umar sekarang?
+Ira memetik 34 jeruk. Kemudian memetik lagi 13 jeruk. Dibagikan kepada teman. Temannya 15 jeruk. Berapa sisa jeruk ira?
+Sebuah bis berisi 47 orang dalam. Perjalanan turun 12 orang dan. Yang naik 13 orang. Berapa orang yang masih ada di. Bis?
+Ayah memetik 49 apel. Kemudian memetik lagi 20 apel. Hari ini dijual 25 apel. Sisa apel yang belum terjual ada ...
+Di piring ada 5 kue. Ibu menambahkan 4 kue lagi. Adik mengambil 2 kue dari piring itu. Berapa banyak kue yang tersisa?
+Di toko Pak Juri tersedia 125 buah kaset lagu. Hari ini terjual 75 buah kaset lagu. Pak Juri membeli lagi 87 buah kaset lagu. Berapa banyak kaset lagu di toko Pak Juri sekarang?
+Pak Wayan seorang peternak ayam. Pak Wayan mempunyai dua kandang ayam. Kandang pertama berisi 164 ekor ayam. Kandang kedua berisi 129 ekor ayam. Pak Wayan menjual 87 ekor ayam. Berapa banyak ayam Pak Wayan sekarang?
+Galih beternak burung puyuh. Kemarin Galih memanen 412 butir telur. Dijual ke pasar sebanyak 325 butir. Hari ini hasil panennya 347 butir. Berapa banyak telur yang dimiliki Galih?
+Bu Ameng seorang penjual telur. Di toko Bu Ameng terdapat 263 butir telur ayam dan 127 butir telur itik. Hari ini terjual 84 butir telur. Berapa banyak telur di toko Bu Ameng sekarang?
+Toko Bu Imah menjual 275 meter pita. Pita tersebut sudah terjual 132 meter. Bu Imah membeli lagi 119 meter. Berapa meter pita Bu Imah sekarang?
+Pak Ali memelihara 234 ekor ayam. Pak Ali membeli lagi ayam 127 ekor. Setelah ayamnya besar, Pak Ali menjual sebanyak 216 ekor. Berapa sisa ayam Pak Ali yang belum dijual?
+Sebuah drum berisi air 450 liter. Air tersebut digunakan untuk mengisi bak 260 liter. Drum diisi air lagi 295 liter. Banyak air dalam drum sekarang . . . liter.
+Ayah memelihara 320 ekor ikan lele dan 260 ekor ikan nila. Ayah menjual 155 ekor ikan lele dan 135 ekor ikan nila. Berapa banyak ikan ayah sekarang?
+Sebuah bus berangkat dari terminal A pukul 17.00. Bus itu tiba di terminal B pukul 22.00. Bus melanjutkan perjalanan ke terminal C. Bus tiba di terminal C pukul 03.00. Berapa lama perjalanan bus dari terminal A sampai terminal C?
+Amir memetik 40 buah apel. Buah apel itu dimasukkan ke dalam sejumlah kantung plastik. Buah apel itu akan dibagikan kepada 4 tetangganya. Setiap tetangga diberi buah apel 2 kantung plastik. Setiap kantung plastik berisi buah apel sama banyak. Berapa banyak apel dalam tiap kantung plastik?
+Amir, Abi, Rio, Yanti, dan Sukma masing-masing membutuhkan 5 lembar kertas untuk dilipat. Kak Rini mempunyai 7 lembar kertas. Kak Rini memotong setiap lembar kertas menjadi 4 dan membagikannya kepada kelima anak tersebut. Berapa lembar sisa kertas Kak Rini?
+Ria mempunyai 12 permen merah dan 15 permen cokelat. Ria telah memakan 6 permen. Ria membagi sisa permennya kepada ketiga adiknya sama banyak. Berapa permen yang diterima setiap adik Ria?
+Setiap hari ibu menyiram bunga dan sayuran. Ibu menyiram bunga dengan 2 ember air. Ibu menyiram sayuran dengan 1 ember air. Berapa ember air yang dibutuhkan untuk menyiram selama seminggu?
+Setiap pembelian 2 kardus gelas berhadiah 3 gelas. Setiap kardus berisi 6 gelas. Ibu membeli gelas 8 kardus. Hitunglah jumlah gelas yang diterima ibu.
+Pak Putu memelihara 250 ekor ayam. Pak Putu menjual 175 ekor ke pasar. Pak Putu membeli lagi 218 ekor anak ayam. Jumlah ayam Pak Putu sekarang . . . ekor.
+Ibu membeli mangga 4 keranjang. Setiap keranjang berisi 9 mangga. Ibu ingin membagi mangga kepada 6 tetangganya. Setiap tetangga menerima mangga sama banyak. Mangga yang diterima setiap tetangga sebanyak . . . buah.
+Bu Umi membeli 120 sabun di pasar. Bu Umi membeli lagi 230 sabun di supermarket. Seorang tetangga membeli sabun di toko Bu Umi. Sabun yang dibeli sebanyak 87 buah. Berapa jumlah sabun Bu Umi sekarang?
+Delapan pak buku tulis dibagikan kepada 4 siswa sama banyak. Satu pak berisi 6 buku. Berapa buku yang diterima setiap siswa?
+Di restoran ada 5 meja. Setiap meja dikelilingi 8 orang. Pengunjung laki-laki sama banyak dengan pengunjung perempuan. Berapa banyak pengunjung laki-laki?
+Marbun tidur pukul 09.00 malam Marbun bangun pukul 05.00 pagi. Berapa lama Marbun tidur?
+Ibu membeli 20 potong kue brownis dan 15 potong kue lumpur. Arya membawa beberapa potong kue itu ke sekolah.  Jika kue ibu tinggal 31 potong, berapa kue yang dibawa Arya ke sekolah?
+Di sebuah kolam terdapat 25 ikan mas dan 16 ikan nila merah. Pemilik kolam menangkap 18 ikan untuk dibakar Berapa sisa ikan di kolam itu sekarang?
+Untuk keperluan pesta, ibu berbelanja telur 1 peti.  Isi peti itu 250 telur.  Di perjalanan ada beberapa telur pecah.  Jika telur yang masih utuh 237, berapa banyak telur yang pecah?
+Penduduk kampung Kaliwungu semula berjumlah 498 orang.  Dalam setahun itu terdapat 19 orang meninggal dunia.  Tahun itu penduduk bertambah karena kelahiran 31 bayi.  Berapakah banyak penduduk kampung Kaliwungu sekarang?
+Ibu menyiapkan 215 kue, nenek datang membawa 85 kue. Tamu yang hadir sebanyak 270 orang. Berapa sisa kue ibu?
+Bu Asih menjahit 7 baju. Setiap baju dipasang 6 kancing. Jika kancing yang tersisa 3, berapa kancing yang tersedia sebelumnya?
+Farhan membeli 10 pensil. Sebanyak 4 pensil digunakan sendiri. Sisa pensil dibagikan kepada 2 adiknya sama banyak. Berapa masing-masing pensil yang diterima adiknya?
+Pak Gunawan membeli 4 keranjang mangga.  Tiap keranjang berisi 6 mangga.  Mangga tersebut akan dibagikan kepada 8 anak sama banyak.  Berapa mangga yang diterima tiap anak?
+Prima dan teman temannya mempuyai 247 lembar kertas lipat berwarna hijau dan 223 lembar kertas lipat berwarna kuning. Sebanyak 312 kertas lipat tersebut sudah dibuat menjadi mainan berapa sisa kertas lipat mereka
+Karim beternak ayam. kemarin ayam karim bertelur 128 butir. hari ini bertelur 207 butir. telur itu pecah 98 butir. berapa telur ayam Karim sekarang?
+Hasan gemar berternak ayam Kemarin ayam hasan bertelur 225 butir Hari ini bertelur 176 butir Sayang telur itu pecah 105 butir Berapa telur ayam hasan sekarang?
+Ibu membeli 6 kantong permen tiap kantong berisi 10 butir  permen itu dibagikan kepada 3 orang anaknya berapa butir permen diterima tiap anak?
+Kiko membeli 3 kg jeruk tiap kg berisi 8 buah jeruk itu dibagikan kepada 6 temannya sama banyak berapa buah jeruk yang diterima masing masing anak?
+Aku adalah sebuah bilangan jika aku ditambah 198 lalu dikurang 77 hasilku 358  bilangan berapakah aku?
+Ibu mempunyai 10 buah apel. Apel diberikan kepada ayah adit dan fira masing masing 1 buah berapa sisa apel ibu ?
+Di pohon ada 17 burung merpati dan 15 burung gereja. Kemudian 20 ekor burung terbang. Berapakah sisa burung di atas pohon?
+Mula mula ada 27 burung merpati di pohon. Lalu 19 burung terbang. Kemudian 25 burung gereja hinggap di pohon. Berapa burung yang ada di pohon sekarang?
+kakek pulang dari dokter. beliau mendapatkan obat 12 tablet dan 12 kapsul. Masing masing obat tersebut sudah diminum 3 buah. Berapa sisa obat kakek?
+Avi mendapat 100 butir telur asin. Diberikan kepada tetangganya 25 butir. Ibu membeli lagi 5 butir telur asin. Berapa butir telur asin yang ada di rumah avi sekarang?
+Majalah ibu ada 54 buah. Dipinjam bibi 4 buah. Tukang koran mengirimkan 5 buah majalah yang baru. Berapa jumlah majalah ibu sekarang?
+Kakak mempunyai 5 sangkar burung. Setiap sangkar berisi 6 ekor burung. Suatu hari satu sangkar burung hilang beserta isinya. Berapa jumlah burung kakak sekarang?
+Ayah membeli 5 karung beras. Setiap karung beratnya 5 kg. Dimasak oleh ibu 5 kg. Berapa kg sisa beras?
+Seorang pedagang telur mula-mula mempunyai 120 butir, kemudian dijual sebanyak 75 butir. Pedagang membeli lagi sebanyak 65 butir, Berapa butir telur pedagang sekarang?
+Suhu di suatu daerah 5°C di bawah nol. Pada malam hari suhu turun 3°C. Menjelang pagi hari suhu turun lagi 3°C. Berapa suhu daerah itu sekarang?
+Ayu membeli 5 kotak bolpoin. Setiap kotak berisi 12 bolpoin. Bolpoin itu diberikan kepada adiknya 5 buah. Sisanya akan dibagikan kepada 5 temannya. Berapa bolpoin yang diterima masing-masing teman Ayu?
+Seorang turis menyelam hingga 68 meter di bawah permukaan laut. Kemudian turis itu naik setinggi 25 meter. Berada pada posisi berapakah turis itu dari permukaan laut saat ini?
+Seorang pilot pesawat tempur mula-mula diperintahkan membawa pesawatnya 450 km ke arah barat dari kota Jakarta kemudian diperintah membalik ke timur 428 km jauh dari kota Jakarta. Ke mana arah pesawat itu sekarang? Berapa jauh dari kota Jakarta?
+Di sebuah pasar daging, dijual kaki hewan yaitu 120 kaki kambing dan 200 kaki ayam. Berapa ekor kambing dan ayam yang dipotong di pasar itu?
+Bu Rina membeli 15 botol sirup manis di sebuah agen. Harga satu botol sirup Rp16.000,00. Bu Rina menjual sirup tersebut secara eceran dengan harga Rp17.500,00 per botol. Berapa keuntungan yang diperoleh Bu Rina jika semua sirup habis terjual?
+Harga sebuah buku tulis Rp 3.250,00 dan harga sebuah bolpen Rp 2.750,00. Jika Dino membeli 24 buku tulis dan 12 bulpen, berapa rupiah yang harus Dino bayar?
+Wawan mempunyai potongan kawat sepanjang 125 cm sebanyak 35 potong. Budi mempunyai potongan kawat sepanjang 175 cm sebanyak 42 potong. Wawan dan Budi masing-masing memberikan 8 potong kawat kepada Nino. Berapa meter jumlah kawat Wawan dan Budi sekarang?
+Sebuah termometer menunjukkan suhu 21°C. Setelah beberapa saat dicelupkan ke dalam air es dicampur garam, pada termometer terjadi penurunan suhu sebesar 25°C. Berapa suhu yang ditunjukkan termometer tersebut?
+Seorang petani mempunyai 15 sawah yang ditanami pepaya masing-masing sebanyak 365 pohon tiap sawah. Jika dari ke-15 sawah tersebut terdapat 236 pohon yang mati diserang hama, berapakah jumlah pohon yang masih hidup?
+Koperasi sekolah mempunyai persediaan 8 buah spidol dan 11 pak spidol. Setiap pak berisi 12 buah spidol. Lima belas orang siswa membeli spidol di koperasi tersebut sama banyak. Jika di koperasi tersebut tersisa 5 buah spidol, berapa spidol yang dibeli setiap siswa?
+Hasil panen mangga Pak Hari sebanyak 16 keranjang. Setiap keranjang berisi 125 buah. Mangga-mangga tersebut disetorkan kepada 4 pedagang secara merata. Berapa banyak mangga yang diterima setiap pedagang ?
+Pak Nirwan memanjat beberapa pohon kelapa, kemudian memetik 134 buah kelapa. Kelapa-kelapa hasil petikannya dibawa ke pasar terjual 99 buah. Beberapa hari kemudian memetik lagi 43 buah kelapa. Berapa buah jumlah kelapa sekarang?
+Sebuah bus jurusan Yogyakarta – Purwokerto dari terminal Yogyakarta memuat 50 orang penumpang, kemudian di terminal Purworejo menurunkan penumpang 12 orang, dan menaikkan lagi 7 orang. Berapa orang penumpang yang ada dalam bus tersebut? 
+Sulis mempunyai 10 ekor ayam. Tiap ayam bertelur masing-masing 6 butir. Setelah dierami induknya, telur-telur tersebut menetas, dimasukkan ke dalam 4 buah kandang. Berapa ekor anak ayam tiap-tiap kandang? 
+Pak Anwar mengirim 3 truk beras kepada distributor, isi tiap truk 56 karung beras, akan didistribusikan merata pada 12 toko pengecer. Setiap toko pengecer mendapatkan berapa karung beras? 
+Suatu distributor semen mengirimkan 5 truk yang berisi semen pada 14 toko pengecer, tiap truk berisi 98 sak semen. Berapa sak semen yang diterima oleh masing-masing toko pengecer? 
+Suatu agen mendistribusikan 360 kardus susu instan kepada 18 pengecer. Setiap pengecer menerima bagian dengan jumlah yang sama. Jika setiap kardus berisi 20 kotak susu instan, masing-masing pengecer menerima sebanyak berapa kotak susu instan? 
+Persediaan beras yang masih ada di sebuah gudang sebanyak 15 karung. Dari sebuah distributor didatangkan lagi 30 karung dibagi rata pada 5 toko, yang dikirim serentak. Berapa karung beras yang dimiliki gudang tersebut sekarang? 
+Ibu membeli 6 karung beras. Kemudian diberikan pada Ani 2 karung. Lalu Ibu membeli lagi sebanyak 3 karung. Berapa karung beras milik Ibu sekarang?
+Ibu membeli mangga 4 keranjang. Setiap keranjang berisi 9 mangga. Ibu ingin membagi mangga kepada 6 tetangganya. Setiap tetangga menerima mangga sama banyak. Mangga yang diterima setiap tetangga sebanyak . . . buah.
+Bu Umi membeli 120 sabun di pasar. Bu Umi membeli lagi 230 sabun di supermarket. Seorang tetangga membeli sabun di toko Bu Umi. Sabun yang dibeli sebanyak 87 buah. Berapa jumlah sabun Bu Umi sekarang?
+Delapan pak buku tulis dibagikan kepada 4 siswa sama banyak. Satu pak berisi 6 buku. Berapa buku yang diterima setiap siswa?
+Di restoran ada 5 meja. Setiap meja dikelilingi 8 orang. Pengunjung laki-laki sama banyak dengan pengunjung perempuan. Berapa banyak pengunjung laki-laki?
+Marbun tidur pukul 09.00 malam Marbun bangun pukul 05.00 pagi. Berapa lama Marbun tidur?
+Ibu membeli 20 potong kue brownis dan 15 potong kue lumpur. Arya membawa beberapa potong kue itu ke sekolah.  Jika kue ibu tinggal 31 potong, berapa kue yang dibawa Arya ke sekolah?
+Di sebuah kolam terdapat 25 ikan mas dan 16 ikan nila merah. Pemilik kolam menangkap 18 ikan untuk dibakar Berapa sisa ikan di kolam itu sekarang?
+Untuk keperluan pesta, ibu berbelanja telur 1 peti.  Isi peti itu 250 telur.  Di perjalanan ada beberapa telur pecah.  Jika telur yang masih utuh 237, berapa banyak telur yang pecah?
+Penduduk kampung Kaliwungu semula berjumlah 498 orang.  Dalam setahun itu terdapat 19 orang meninggal dunia.  Tahun itu penduduk bertambah karena kelahiran 31 bayi.  Berapakah banyak penduduk kampung Kaliwungu sekarang?
+Ibu menyiapkan 215 kue, nenek datang membawa 85 kue. Tamu yang hadir sebanyak 270 orang. Berapa sisa kue ibu?
+Bu Asih menjahit 7 baju. Setiap baju dipasang 6 kancing. Jika kancing yang tersisa 3, berapa kancing yang tersedia sebelumnya?
+Ayah menanam 15 batang jeruk. Mati 4 batang. Menanam lagi 7 batang. Berapa batang jeruk yang masih hidup?
+Andri mempunyai 37 butir telur. Hilang 19 butir. Diberi oleh ayah 13 butir telur. Berapa banyak telur andri sekarang?
+Pak umar mempunyai 5 kelinci. Hari ini mati 1 kelinci. Dibeli bu ali 2 kelinci. Berapa kelinci pak umar sekarang?
+Ira memetik 34 jeruk. Kemudian memetik lagi 13 jeruk. Dibagikan kepada teman. Temannya 15 jeruk. Berapa sisa jeruk ira?

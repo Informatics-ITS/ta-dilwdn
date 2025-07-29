@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/siswa/[id]/[ujian]/[result]/+page.svelte";

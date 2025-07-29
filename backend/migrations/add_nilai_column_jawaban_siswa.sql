@@ -1,0 +1,1 @@
+ALTER TABLE jawaban_siswa ADD COLUMN nilai INTEGER DEFAULT 0; 

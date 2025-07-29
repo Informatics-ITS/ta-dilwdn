@@ -1,0 +1,27 @@
+# Contoh File Excel untuk Import Siswa
+# Buat file Excel dengan nama "contoh_siswa_import.xlsx" dengan kolom berikut:
+
+# Kolom A: NISN
+# Kolom B: nama_siswa  
+# Kolom C: kelas
+
+# Contoh data:
+# NISN         | nama_siswa        | kelas
+# 1234567890   | John Doe          | 1
+# 1234567891   | Jane Smith        | 1
+# 1234567892   | Bob Johnson       | 2
+# 1234567893   | Alice Brown       | 2
+# 1234567894   | Charlie Wilson    | 3
+
+# Catatan:
+# - NISN harus unik
+# - Kelas harus sudah ada di database
+# - Password akan otomatis diset sebagai NISN
+# - File harus dalam format .xlsx
+
+# Cara menggunakan:
+# 1. Buat file Excel dengan format di atas
+# 2. Login sebagai guru
+# 3. Gunakan endpoint POST /api/teacher/siswa/excel
+# 4. Upload file Excel
+# 5. Sistem akan membuat siswa dengan password default NISN 

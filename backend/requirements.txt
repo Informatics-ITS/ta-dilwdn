@@ -1,0 +1,17 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-sqlalchemy==3.0.5
+mysql-connector-python==8.1.0
+python-dotenv==1.0.0
+Werkzeug==2.3.7
+flask-wtf==1.1.1
+numpy==1.26.4
+anytree==2.8.0
+tensorflow==2.18.0
+joblib==1.3.2
+Pillow==10.0.0
+pytesseract==0.3.10
+pandas==2.0.3
+PyJWT==2.8.0
+google-generativeai==0.3.2
+dill

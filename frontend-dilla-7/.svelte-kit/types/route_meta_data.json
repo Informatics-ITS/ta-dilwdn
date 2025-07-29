@@ -1,0 +1,62 @@
+{
+	"/": [],
+	"/dashboard": [
+		"src/routes/dashboard/+layout.ts",
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/analisis": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/analisis/comparison-demo": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/analisis/[id]": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/kelas": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/kelas/[id]": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/laporan": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/laporan/ujian-siswa": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/laporan/ujian-siswa/[id]": [
+		"src/routes/dashboard/laporan/ujian-siswa/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/laporan/[id]": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/ujian": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/ujian/[id]": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/dashboard/ujian/[id]/jawaban": [
+		"src/routes/dashboard/+layout.ts"
+	],
+	"/login": [],
+	"/register": [],
+	"/siswa": [
+		"src/routes/siswa/+layout.ts",
+		"src/routes/siswa/+layout.ts"
+	],
+	"/siswa/nilai": [
+		"src/routes/siswa/+layout.ts"
+	],
+	"/siswa/[id]": [
+		"src/routes/siswa/+layout.ts"
+	],
+	"/siswa/[id]/[ujian]": [
+		"src/routes/siswa/+layout.ts"
+	],
+	"/siswa/[id]/[ujian]/[result]": [
+		"src/routes/siswa/+layout.ts"
+	]
+}

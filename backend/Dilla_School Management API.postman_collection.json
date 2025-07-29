@@ -1,0 +1,1005 @@
+{
+	"info": {
+		"_postman_id": "your-collection-id",
+		"name": "School Management API",
+		"description": "API for managing school data including users, classes, students, exams, and more",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "Get All Users",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/users"
+					}
+				},
+				{
+					"name": "Get User by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/users/:id"
+					}
+				},
+				{
+					"name": "Create User",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/users",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\": \"user@example.com\",\n    \"password\": \"password123\",\n    \"nama_lengkap\": \"John Doe\",\n    \"jenis_kelamin\": \"laki-laki\",\n    \"role\": \"admin\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Membuat user baru dengan role (admin/guru/siswa)"
+					}
+				},
+				{
+					"name": "Update User",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/users/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\": \"updated@example.com\",\n    \"nama_lengkap\": \"John Updated\",\n    \"jenis_kelamin\": \"laki-laki\",\n    \"role\": \"guru\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Update user dengan role (admin/guru/siswa)"
+					}
+				},
+				{
+					"name": "Delete User",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/users/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Student Authentication",
+			"item": [
+				{
+					"name": "Student Login",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/student/login",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nisn\": \"1234567890\",\n    \"password\": \"1234567890\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Login siswa menggunakan NISN dan password (default password adalah NISN)"
+					}
+				},
+				{
+					"name": "Get Student Profile",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/student/profile",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{student_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan profil siswa yang sedang login (memerlukan token)"
+					}
+				},
+				{
+					"name": "Get Student Exams",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/student/exams",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{student_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan daftar ujian yang tersedia untuk kelas siswa"
+					}
+				},
+				{
+					"name": "Get Exam Questions",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/student/exam/1/questions",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{student_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan soal ujian tertentu (memerlukan token)"
+					}
+				},
+				{
+					"name": "Submit Exam Answers",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/student/exam/1/submit",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{student_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"answers\": [\n        {\n            \"soal_id\": 1,\n            \"jawaban_text\": \"Di meja ada 4 buah apel. Lalu ibu meletakkan 2 buah apel lain. Berapa banyak apel di meja sekarang? Jawabannya adalah 6 apel.\"\n        },\n        {\n            \"soal_id\": 2,\n            \"jawaban_text\": \"Adik mempunyai 11 ekor ikan. Lalu ayah membelikan 4 ekor ikan. Berapa banyak ikan adik sekarang? Jawabannya adalah 15 ekor ikan.\"\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Submit jawaban ujian dalam bentuk teks (memerlukan token)"
+					}
+				}
+			]
+		},
+		{
+			"name": "Teacher Authentication",
+			"item": [
+				{
+					"name": "Teacher Login",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/login",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\": \"guru@sekolah.com\",\n    \"password\": \"password123\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Login guru menggunakan email dan password (role harus 'guru')"
+					}
+				},
+				{
+					"name": "Get Teacher Profile",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/teacher/profile",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan profil guru yang sedang login (memerlukan token)"
+					}
+				},
+				{
+					"name": "Teacher Logout",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/logout",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Logout guru"
+					}
+				}
+			]
+		},
+		{
+			"name": "Teacher Management",
+			"item": [
+				{
+					"name": "Get Teacher Dashboard",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/teacher/dashboard",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan dashboard guru dengan statistik dan daftar kelas"
+					}
+				},
+				{
+					"name": "Get All Classes (Teacher)",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/teacher/kelas",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan semua kelas dengan jumlah siswa"
+					}
+				},
+				{
+					"name": "Create Class (Teacher)",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/kelas",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": 1,\n    \"nama\": \"Kelas X IPA 1\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Membuat kelas baru (memerlukan token guru)"
+					}
+				},
+				{
+					"name": "Update Class (Teacher)",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/teacher/kelas/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama\": \"Kelas X IPA 1 (Updated)\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Update nama kelas (memerlukan token guru)"
+					}
+				},
+				{
+					"name": "Delete Class (Teacher)",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/teacher/kelas/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Hapus kelas (hanya jika tidak ada siswa atau ujian)"
+					}
+				},
+				{
+					"name": "Get Students by Class",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/teacher/kelas/1/siswa",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Mendapatkan daftar siswa berdasarkan kelas"
+					}
+				},
+				{
+					"name": "Create Student (Teacher)",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/siswa",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"NISN\": \"1234567890\",\n    \"nama_siswa\": \"John Doe\",\n    \"kelas\": 1\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Membuat siswa baru dengan password default NISN (memerlukan token guru)"
+					}
+				},
+				{
+					"name": "Create Students Bulk (Teacher)",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/siswa/bulk",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"siswa_list\": [\n        {\n            \"NISN\": \"1234567890\",\n            \"nama_siswa\": \"John Doe\",\n            \"kelas\": 1\n        },\n        {\n            \"NISN\": \"1234567891\",\n            \"nama_siswa\": \"Jane Smith\",\n            \"kelas\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Membuat multiple siswa sekaligus dengan password default NISN"
+					}
+				},
+				{
+					"name": "Update Student (Teacher)",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/teacher/siswa/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama_siswa\": \"John Updated\",\n    \"kelas\": 2,\n    \"password\": \"newpassword123\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Update data siswa (memerlukan token guru)"
+					}
+				},
+				{
+					"name": "Delete Student (Teacher)",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/teacher/siswa/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"description": "Hapus siswa (hanya jika tidak ada hasil ujian atau jawaban)"
+					}
+				},
+				{
+					"name": "Import Students Excel (Teacher)",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/teacher/siswa/excel",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": []
+								}
+							]
+						},
+						"description": "Import siswa dari Excel dengan kolom NISN, nama_siswa, kelas (password default NISN)"
+					}
+				}
+			]
+		},
+		{
+			"name": "Kelas",
+			"item": [
+				{
+					"name": "Get All Classes",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/kelas"
+					}
+				},
+				{
+					"name": "Get Class by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/kelas/:id"
+					}
+				},
+				{
+					"name": "Create Class",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/kelas",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": 1,\n    \"nama\": \"Kelas X IPA 1\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Update Class",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/kelas/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama\": \"Kelas X IPA 2\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Class",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/kelas/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Siswa",
+			"item": [
+				{
+					"name": "Get All Students",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/siswa"
+					}
+				},
+				{
+					"name": "Get Student by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/siswa/:id"
+					}
+				},
+				{
+					"name": "Create Student",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/siswa",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"NISN\": \"1234567890\",\n    \"nama_siswa\": \"John Doe\",\n    \"kelas\": 1\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Membuat siswa baru dengan password default NISN"
+					}
+				},
+				{
+					"name": "Update Student",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/siswa/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama_siswa\": \"Jane Updated\",\n    \"kelas\": 2\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Student",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/siswa/:id"
+					}
+				},
+				{
+					"name": "Import Students from Excel",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/siswa/excel",
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": []
+								}
+							]
+						},
+						"description": "Import siswa dari file Excel dengan kolom NISN, nama_siswa, kelas"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ujian",
+			"item": [
+				{
+					"name": "Get All Exams",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/ujian"
+					}
+				},
+				{
+					"name": "Get Exam by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/ujian/:id"
+					}
+				},
+				{
+					"name": "Create Exam",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/ujian",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama_ujian\": \"Ujian Matematika Semester 1\",\n    \"kelas\": 1,\n    \"pelaksanaan\": \"2024-01-15\",\n    \"status\": \"aktif\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Update Exam",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/ujian/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nama_ujian\": \"Ujian Matematika Semester 1 (Updated)\",\n    \"status\": \"nonaktif\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Exam",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/ujian/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Ujian Siswa",
+			"item": [
+				{
+					"name": "Get All Exam Results",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/ujian-siswa"
+					}
+				},
+				{
+					"name": "Get Exam Result by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/ujian-siswa/:id"
+					}
+				},
+				{
+					"name": "Create Exam Result",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/ujian-siswa",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"ujian\": 1,\n    \"siswa\": 1,\n    \"nilai\": 85,\n    \"label_nilai\": \"Baik\",\n    \"deskripsi_analisis\": \"Siswa menjawab dengan baik\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Update Exam Result",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/ujian-siswa/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nilai\": 90,\n    \"label_nilai\": \"Sangat Baik\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Exam Result",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/ujian-siswa/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Soal",
+			"item": [
+				{
+					"name": "Get All Questions",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/soal"
+					}
+				},
+				{
+					"name": "Get Question by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/soal/:id"
+					}
+				},
+				{
+					"name": "Create Question",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/soal",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"soal\": \"Di meja ada 4 buah apel. Lalu ibu meletakkan 2 buah apel lain. Berapa banyak apel di meja sekarang?\",\n    \"ujian\": 1,\n    \"json_result\": {\n        \"operator\": \"Penjumlahan\",\n        \"angka_dalam_soal\": \"4,2\",\n        \"jawaban\": \"6\"\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Update Question",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/soal/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"soal\": \"Di meja ada 5 buah apel. Lalu ibu meletakkan 3 buah apel lain. Berapa banyak apel di meja sekarang?\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Question",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/soal/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Jawaban Siswa",
+			"item": [
+				{
+					"name": "Get All Student Answers",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/jawaban-siswa"
+					}
+				},
+				{
+					"name": "Get Student Answer by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/jawaban-siswa/:id"
+					}
+				},
+				{
+					"name": "Create Student Answer",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/jawaban-siswa",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"siswa\": 1,\n    \"soal\": 1,\n    \"status\": \"correct\",\n    \"json_result\": {\n        \"student_answer\": \"6\",\n        \"ai_analysis\": {\n            \"operator\": \"Penjumlahan\",\n            \"angka_dalam_soal\": \"4,2\",\n            \"jawaban\": \"6\"\n        },\n        \"comparison\": {\n            \"status\": \"correct\",\n            \"nilai\": 3\n        }\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Update Student Answer",
+					"request": {
+						"method": "PUT",
+						"url": "{{base_url}}/api/jawaban-siswa/:id",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"status\": \"correct\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						}
+					}
+				},
+				{
+					"name": "Delete Student Answer",
+					"request": {
+						"method": "DELETE",
+						"url": "{{base_url}}/api/jawaban-siswa/:id"
+					}
+				}
+			]
+		},
+		{
+			"name": "Statistics",
+			"item": [
+				{
+					"name": "Get Total Students",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/total-siswa"
+					}
+				},
+				{
+					"name": "Get Total Classes",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/total-kelas"
+					}
+				},
+				{
+					"name": "Get Total Exams",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/total-ujian"
+					}
+				},
+				{
+					"name": "Get Achievement Statistics",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/capaian"
+					},
+					"description": "Mendapatkan statistik pencapaian dengan persentase siswa yang lulus"
+				},
+				{
+					"name": "Get Class Statistics",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/class-statistics"
+					},
+					"description": "Mendapatkan statistik per kelas dengan nilai rata-rata, min, max dalam bentuk integer"
+				},
+				{
+					"name": "Get Class Statistics by ID",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/statistics/kelas/1"
+					},
+					"description": "Mendapatkan statistik kelas tertentu dengan nilai dalam bentuk integer"
+				}
+			]
+		},
+		{
+			"name": "Math Problem Solver",
+			"item": [
+				{
+					"name": "Solve Math Problem from Image",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/solve",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"image\": \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Solves a math problem from an image using OCR and CNN model. The image should be sent as a base64 string."
+					}
+				},
+				{
+					"name": "Solve Math Problem from Text",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/solve_text",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"text_input\": \"Budi memiliki 5 apel dan membeli 3 apel lagi. Berapa total apel yang dimiliki Budi?\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Solves a math problem from text input using CNN model. The text should be a math word problem."
+					}
+				},
+				{
+					"name": "Compare Answers",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/compare_answer",
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"ai_answer\": {\n        \"operator\": \"Penjumlahan\",\n        \"angka_dalam_soal\": \"5,3\",\n        \"jawaban\": \"8\"\n    },\n    \"student_answer\": {\n        \"operator\": \"Penjumlahan\",\n        \"angka_dalam_soal\": \"5,3\",\n        \"jawaban\": \"8\"\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Compare AI answer with student answer and return analysis"
+					}
+				}
+			]
+		},
+		{
+			"name": "Pedagogic Analysis",
+			"item": [
+				{
+					"name": "Check Pedagogic Analysis Status",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/pedagogic/status",
+						"description": "Check if pedagogic analysis service is available"
+					}
+				},
+				{
+					"name": "Analyze Student Answer",
+					"request": {
+						"method": "POST",
+						"url": "{{base_url}}/api/pedagogic/analyze-answer",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"soal_id\": 1,\n    \"jawaban_siswa_id\": 1\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"description": "Analyze individual student answer using Gemini 2.0 Flash LLM"
+					}
+				},
+				{
+					"name": "Analyze Class Performance",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/pedagogic/analyze-class/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}"
+							}
+						],
+						"description": "Analyze overall class performance using Gemini 2.0 Flash LLM"
+					}
+				},
+				{
+					"name": "Analyze Student Learning Patterns",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/pedagogic/analyze-student/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}"
+							}
+						],
+						"description": "Analyze individual student learning patterns using Gemini 2.0 Flash LLM"
+					}
+				},
+				{
+					"name": "Analyze Exam Results",
+					"request": {
+						"method": "GET",
+						"url": "{{base_url}}/api/pedagogic/analyze-exam/1",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{teacher_token}}"
+							}
+						],
+						"description": "Analyze specific exam results using Gemini 2.0 Flash LLM"
+					}
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:5000"
+		},
+		{
+			"key": "student_token",
+			"value": "your-student-jwt-token-here",
+			"description": "JWT token obtained from student login"
+		},
+		{
+			"key": "teacher_token",
+			"value": "your-teacher-jwt-token-here",
+			"description": "JWT token obtained from teacher login"
+		}
+	]
+}
